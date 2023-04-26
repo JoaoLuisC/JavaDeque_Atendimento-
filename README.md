@@ -5,3 +5,5 @@
 <p>
     O formJava em si é projetado para ser fácil de usar, com uma interface de usuário amigável que permite aos usuários inserir, remover e visualizar elementos na fila de atendimento. Ele também fornece recursos adicionais para reorganizar a fila, como mover elementos para o início ou fim da fila.
 </p>
+
+![imgDeque](https://user-images.githubusercontent.com/103074041/234670821-0a13a052-275e-4e78-8794-7fcffefeb875.png)
